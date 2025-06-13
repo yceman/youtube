@@ -62,12 +62,11 @@
 }
 
 .thumbnails {
-	position: fixed;
-	width: 320px;
+	position: absolute;
+	width: 322px;
 	height: 100%;
 	top: 133px;
 	right: 0;
-	display: flex;
 }
 
 footer {
